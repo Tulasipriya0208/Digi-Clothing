@@ -15,7 +15,7 @@ export class LoginComponent implements OnInit {
     private toastr: ToastrService) {
     this.user = { loginId: '', password: '' };
 
-  }
+    }
 
   result: any
   customer: any;

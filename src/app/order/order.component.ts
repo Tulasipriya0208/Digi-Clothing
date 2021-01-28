@@ -16,9 +16,10 @@ export class OrderComponent implements OnInit {
   review:any;
   constructor(private service: ProjService, private local: LocalStorageService, private toastr : ToastrService,private router: Router) {
     this.address={state:'', street:'', city:'', houseNo:'', pincode:''}
-    this.review = {reviewId: '', review: ''}
+    this.review = {reviewId: '', review: ''}}
+  
 
-   }
+   
   customer: any;
   cartItems: any;
   books: any
