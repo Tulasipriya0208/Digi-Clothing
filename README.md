@@ -2,7 +2,6 @@
 
 Digi-Clothing, a Web-Development project is a form of Electronic Commerce website which allows the consumers directly buy Products over the internet using a web browser. Online customers are provided with a variety of attires of all privileged brands. The main aim of this project is to develop a fully operational website that is capable of providing its users with a complete fun online shopping experience
 
-/////////////////////////////////////////////
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
